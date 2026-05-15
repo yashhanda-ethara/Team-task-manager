@@ -2,6 +2,13 @@
 
 > A full-stack web application for managing teams, projects, and tasks with role-based access control. Built as an internship assignment at **Ethara**.
 
+## 🌐 Live Demo
+
+| | URL |
+|--|--|
+| **App** | https://determined-mindfulness-production-3c9c.up.railway.app |
+| **API** | https://diplomatic-embrace-production.up.railway.app |
+
 ---
 
 ## 🖼️ Preview
